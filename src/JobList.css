@@ -1,0 +1,14 @@
+.JobList {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 75%;
+}
+
+.JobList-heading {
+  padding: 50px;
+}
+
+.JobList-item {
+  padding: 10px;
+}

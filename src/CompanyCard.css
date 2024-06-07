@@ -1,0 +1,14 @@
+.CompanyCard {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-content: start;
+  color: #0077b6;
+  padding-left: 50px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 10px;
+  flex-wrap: wrap;
+  align-items: baseline;
+}

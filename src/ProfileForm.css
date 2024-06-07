@@ -1,0 +1,11 @@
+.ProfileForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: auto;
+  background-color: white;
+  border: thin solid black;
+  border-radius: 5px;
+  width: 40%;
+  padding: 20px;
+}

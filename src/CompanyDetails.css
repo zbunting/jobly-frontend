@@ -1,0 +1,14 @@
+.CompanyDetails {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 75%;
+}
+
+.CompanyDetails-heading {
+  padding: 50px;
+}
+
+.CompanyDetails-item {
+  padding: 10px;
+}

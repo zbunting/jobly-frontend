@@ -1,0 +1,14 @@
+.CompanyList {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 75%;
+}
+
+.CompanyList-item {
+  padding: 10px;
+}
+
+.CompanyList-heading {
+  padding: 50px;
+}
